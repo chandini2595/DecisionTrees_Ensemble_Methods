@@ -10,4 +10,9 @@
 
 Youtube links:
 1. GBM from Scratch - https://youtu.be/waQd7n1HWxo
-2. Random Forest from Scratch - 
+2. Random Forest from Scratch - https://youtu.be/zTcBpuqSdBY
+3. Adaboost - https://youtu.be/IjzLLrgCsSM
+4. Decision Tree - https://youtu.be/9ZJeBB-8bRc
+5. GBM Classifier - https://youtu.be/jmEqTmoxX4c
+6. Gradient Boost Regression - https://youtu.be/W_7T_7bsg1E
+7. Gradient Boost Ranking - https://youtu.be/vFxsdkBxbQk
