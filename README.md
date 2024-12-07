@@ -7,3 +7,7 @@
 5. GBM Classifier - https://colab.research.google.com/drive/1xJeGpdlHNLg6aogRValsvlCSVr7x_Mgy?usp=sharing
 6. Gradient Boost Regression - https://colab.research.google.com/drive/1lbcgRTxQXseDjOHyZqQX2Q4FZFOKFERQ?usp=sharing
 7. Gradient Boost Ranking - https://colab.research.google.com/drive/1v2X4rbU2v9rOrAHX3UVJwQdnMISWa94g?usp=sharing
+
+Youtube links:
+1. GBM from Scratch - https://youtu.be/waQd7n1HWxo
+2. Random Forest from Scratch - 
